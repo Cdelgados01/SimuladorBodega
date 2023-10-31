@@ -135,11 +135,7 @@ public class LoginScreen extends javax.swing.JFrame {
             MenuScreen newframe = new MenuScreen();
             newframe.setVisible(true);
             this.dispose();
-        // Acceso autorizado
-        // Puedes abrir la ventana principal de la aplicación aquí o realizar otras acciones necesarias
     } else {
-        // Acceso no autorizado
-        // Puedes mostrar un mensaje de error o realizar otras acciones necesarias
     }
     }//GEN-LAST:event_loginbuttonActionPerformed
 
